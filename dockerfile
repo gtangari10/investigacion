@@ -1,8 +1,18 @@
-FROM ghcr.io/astral-sh/uv:python3.10-bookworm-slim
+FROM ghcr.io/astral-sh/uv:python3.9-bookworm-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PATH="/app/.venv/bin:$PATH"
+
+COPY ShapeWorks-v6.6.1-linux.tar.gz /tmp/sw.tgz
+
+RUN set -eux; \
+    mkdir -p /opt/shapeworks && \
+    tar -xzf /tmp/sw.tgz --strip-components=1 -C /opt/shapeworks && \
+    rm /tmp/sw.tgz
+
+ENV PATH="/opt/shapeworks/bin:${PATH}" \
+    PYTHONPATH="/opt/shapeworks/bin:${PYTHONPATH:-}"
 
 WORKDIR /app
 
@@ -35,10 +45,10 @@ RUN apt-get update && \
 
 COPY pyproject.toml uv.lock /app/
 
-RUN uv sync --locked
-
 COPY . /app
+
+RUN uv sync
 
 EXPOSE 8888
 
-CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+CMD ["uv", "run", "jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--allow-root"]

@@ -1,9 +1,9 @@
 [project]
-name = "shapeworks"
+name = "shapeworks-env"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 dependencies = [
     "annotated-types==0.5.0",
     "anyio==3.7.1",
@@ -28,11 +28,15 @@ dependencies = [
     "comm==0.1.3",
     "contourpy==1.1.0",
     "cycler==0.11.0",
+    "dataaugmentationutils",
+    "datasetutils",
     "debugpy==1.6.7",
     "decorator==5.1.1",
+    "deepssmutils",
     "defusedxml==0.7.1",
     "django-s3-file-field-client==0.3.2",
     "docopt==0.6.2",
+    "documentationutils",
     "entrypoints==0.4",
     "et-xmlfile==1.1.0",
     "exceptiongroup==1.1.2",
@@ -111,6 +115,7 @@ dependencies = [
     "mkdocs-material-extensions==1.1.1",
     "mkdocstrings==0.19.0",
     "mkdocstrings-python==0.7.1",
+    "monailabel",
     "nbclassic==1.0.0",
     "nbclient==0.8.0",
     "nbconvert==6.5.4",
@@ -164,6 +169,7 @@ dependencies = [
     "scooby==0.7.2",
     "seaborn==0.11.2",
     "send2trash==1.8.2",
+    "shapecohortgen",
     "shapely==1.8.2",
     "simpleitk==2.1.1.2",
     "six==1.16.0",
@@ -201,4 +207,16 @@ dependencies = [
     "widgetsnbextension==3.6.4",
     "zipp==3.19.1",
     "zstandard==0.21.0",
+    "shapeworks",
+    "open3d>=0.18.0",
 ]
+
+
+[tool.uv.sources]
+dataaugmentationutils = { path = "Python/DataAugmentationUtilsPackage" }
+datasetutils = { path = "Python/DatasetUtilsPackage" }
+monailabel = { path = "Python/MONAILabelPackage" }
+deepssmutils = { path = "Python/DeepSSMUtilsPackage" }
+documentationutils = { path = "Python/DocumentationUtilsPackage" }
+shapecohortgen = { path = "Python/ShapeCohortGenPackage" }
+shapeworks = { path = "Python/shapeworks" }
