@@ -1,0 +1,1001 @@
+{
+    "data": [
+        {
+            "name": "gris14",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris14.obj",
+            "groomed_1": "../groomed/gris14.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris14_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris14_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris28",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris28.obj",
+            "groomed_1": "../groomed/gris28.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris28_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris28_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris4",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris4.obj",
+            "groomed_1": "../groomed/gris4.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris4_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris4_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado10",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado10.obj",
+            "groomed_1": "../groomed/rosado10.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado10_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado10_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris29",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris29.obj",
+            "groomed_1": "../groomed/gris29.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris29_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris29_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris15",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris15.obj",
+            "groomed_1": "../groomed/gris15.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris15_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris15_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris17",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris17.obj",
+            "groomed_1": "../groomed/gris17.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris17_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris17_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris7",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris7.obj",
+            "groomed_1": "../groomed/gris7.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris7_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris7_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris6",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris6.obj",
+            "groomed_1": "../groomed/gris6.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris6_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris6_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris16",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris16.obj",
+            "groomed_1": "../groomed/gris16.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris16_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris16_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris12",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris12.obj",
+            "groomed_1": "../groomed/gris12.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris12_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris12_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris2",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris2.obj",
+            "groomed_1": "../groomed/gris2.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris2_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris2_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado16",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado16.obj",
+            "groomed_1": "../groomed/rosado16.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado16_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado16_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado17",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado17.obj",
+            "groomed_1": "../groomed/rosado17.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado17_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado17_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris13",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris13.obj",
+            "groomed_1": "../groomed/gris13.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris13_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris13_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris11",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris11.obj",
+            "groomed_1": "../groomed/gris11.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris11_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris11_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris1",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris1.obj",
+            "groomed_1": "../groomed/gris1.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris1_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris1_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado29",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado29.obj",
+            "groomed_1": "../groomed/rosado29.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado29_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado29_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado28",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado28.obj",
+            "groomed_1": "../groomed/rosado28.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado28_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado28_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris10",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris10.obj",
+            "groomed_1": "../groomed/gris10.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris10_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris10_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris77",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris77.obj",
+            "groomed_1": "../groomed/gris77.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris77_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris77_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris63",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris63.obj",
+            "groomed_1": "../groomed/gris63.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris63_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris63_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris62",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris62.obj",
+            "groomed_1": "../groomed/gris62.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris62_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris62_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris74",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris74.obj",
+            "groomed_1": "../groomed/gris74.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris74_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris74_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris48",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris48.obj",
+            "groomed_1": "../groomed/gris48.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris48_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris48_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado58",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado58.obj",
+            "groomed_1": "../groomed/rosado58.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado58_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado58_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado70",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado70.obj",
+            "groomed_1": "../groomed/rosado70.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado70_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado70_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado59",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado59.obj",
+            "groomed_1": "../groomed/rosado59.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado59_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado59_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris49",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris49.obj",
+            "groomed_1": "../groomed/gris49.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris49_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris49_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris75",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris75.obj",
+            "groomed_1": "../groomed/gris75.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris75_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris75_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris61",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris61.obj",
+            "groomed_1": "../groomed/gris61.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris61_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris61_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris59",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris59.obj",
+            "groomed_1": "../groomed/gris59.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris59_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris59_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris71",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris71.obj",
+            "groomed_1": "../groomed/gris71.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris71_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris71_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado61",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado61.obj",
+            "groomed_1": "../groomed/rosado61.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado61_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado61_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado6",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado6.obj",
+            "groomed_1": "../groomed/rosado6.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado6_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado6_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado49",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado49.obj",
+            "groomed_1": "../groomed/rosado49.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado49_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado49_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado48",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado48.obj",
+            "groomed_1": "../groomed/rosado48.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado48_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado48_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado7",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado7.obj",
+            "groomed_1": "../groomed/rosado7.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado7_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado7_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris70",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris70.obj",
+            "groomed_1": "../groomed/gris70.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris70_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris70_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris58",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris58.obj",
+            "groomed_1": "../groomed/gris58.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris58_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris58_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris72",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris72.obj",
+            "groomed_1": "../groomed/gris72.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris72_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris72_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado62",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado62.obj",
+            "groomed_1": "../groomed/rosado62.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado62_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado62_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado63",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado63.obj",
+            "groomed_1": "../groomed/rosado63.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado63_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado63_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris73",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris73.obj",
+            "groomed_1": "../groomed/gris73.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris73_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris73_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris56",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris56.obj",
+            "groomed_1": "../groomed/gris56.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris56_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris56_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris42",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris42.obj",
+            "groomed_1": "../groomed/gris42.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris42_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris42_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado46",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado46.obj",
+            "groomed_1": "../groomed/rosado46.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado46_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado46_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris57",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris57.obj",
+            "groomed_1": "../groomed/gris57.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris57_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris57_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris80",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris80.obj",
+            "groomed_1": "../groomed/gris80.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris80_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris80_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris55",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris55.obj",
+            "groomed_1": "../groomed/gris55.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris55_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris55_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris69",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris69.obj",
+            "groomed_1": "../groomed/gris69.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris69_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris69_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado45",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado45.obj",
+            "groomed_1": "../groomed/rosado45.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado45_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado45_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado51",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado51.obj",
+            "groomed_1": "../groomed/rosado51.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado51_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado51_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado44",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado44.obj",
+            "groomed_1": "../groomed/rosado44.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado44_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado44_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris68",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris68.obj",
+            "groomed_1": "../groomed/gris68.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris68_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris68_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris54",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris54.obj",
+            "groomed_1": "../groomed/gris54.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris54_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris54_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris40",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris40.obj",
+            "groomed_1": "../groomed/gris40.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris40_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris40_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris78",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris78.obj",
+            "groomed_1": "../groomed/gris78.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris78_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris78_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris44",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris44.obj",
+            "groomed_1": "../groomed/gris44.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris44_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris44_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado40",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado40.obj",
+            "groomed_1": "../groomed/rosado40.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado40_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado40_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado54",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado54.obj",
+            "groomed_1": "../groomed/rosado54.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado54_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado54_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado68",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado68.obj",
+            "groomed_1": "../groomed/rosado68.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado68_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado68_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado69",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado69.obj",
+            "groomed_1": "../groomed/rosado69.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado69_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado69_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado55",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado55.obj",
+            "groomed_1": "../groomed/rosado55.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado55_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado55_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris51",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris51.obj",
+            "groomed_1": "../groomed/gris51.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris51_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris51_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris45",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris45.obj",
+            "groomed_1": "../groomed/gris45.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris45_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris45_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris79",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris79.obj",
+            "groomed_1": "../groomed/gris79.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris79_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris79_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado57",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado57.obj",
+            "groomed_1": "../groomed/rosado57.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado57_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado57_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado42",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado42.obj",
+            "groomed_1": "../groomed/rosado42.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado42_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado42_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado56",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado56.obj",
+            "groomed_1": "../groomed/rosado56.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado56_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado56_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris46",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris46.obj",
+            "groomed_1": "../groomed/gris46.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris46_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris46_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris21",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris21.obj",
+            "groomed_1": "../groomed/gris21.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris21_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris21_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado31",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado31.obj",
+            "groomed_1": "../groomed/rosado31.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado31_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado31_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado25",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado25.obj",
+            "groomed_1": "../groomed/rosado25.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado25_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado25_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado24",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado24.obj",
+            "groomed_1": "../groomed/rosado24.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado24_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado24_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado30",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado30.obj",
+            "groomed_1": "../groomed/rosado30.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado30_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado30_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris20",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris20.obj",
+            "groomed_1": "../groomed/gris20.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris20_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris20_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris22",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris22.obj",
+            "groomed_1": "../groomed/gris22.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris22_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris22_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado26",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado26.obj",
+            "groomed_1": "../groomed/rosado26.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado26_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado26_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado32",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado32.obj",
+            "groomed_1": "../groomed/rosado32.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado32_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado32_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado27",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado27.obj",
+            "groomed_1": "../groomed/rosado27.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado27_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado27_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris23",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris23.obj",
+            "groomed_1": "../groomed/gris23.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris23_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris23_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris27",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris27.obj",
+            "groomed_1": "../groomed/gris27.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris27_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris27_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado23",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado23.obj",
+            "groomed_1": "../groomed/rosado23.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado23_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado23_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado22",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado22.obj",
+            "groomed_1": "../groomed/rosado22.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado22_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado22_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris32",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris32.obj",
+            "groomed_1": "../groomed/gris32.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris32_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris32_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris26",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris26.obj",
+            "groomed_1": "../groomed/gris26.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris26_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris26_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris18",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris18.obj",
+            "groomed_1": "../groomed/gris18.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris18_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris18_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris30",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris30.obj",
+            "groomed_1": "../groomed/gris30.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris30_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris30_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris24",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris24.obj",
+            "groomed_1": "../groomed/gris24.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris24_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris24_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris8",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris8.obj",
+            "groomed_1": "../groomed/gris8.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris8_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris8_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado20",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado20.obj",
+            "groomed_1": "../groomed/rosado20.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado20_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado20_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "rosado21",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado21.obj",
+            "groomed_1": "../groomed/rosado21.vtp",
+            "local_particles_1": "./hand_mesh_particles/rosado21_local.particles",
+            "world_particles_1": "./hand_mesh_particles/rosado21_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris9",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris9.obj",
+            "groomed_1": "../groomed/gris9.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris9_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris9_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris25",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris25.obj",
+            "groomed_1": "../groomed/gris25.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris25_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris25_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris31",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris31.obj",
+            "groomed_1": "../groomed/gris31.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris31_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris31_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "gris19",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris19.obj",
+            "groomed_1": "../groomed/gris19.vtp",
+            "local_particles_1": "./hand_mesh_particles/gris19_local.particles",
+            "world_particles_1": "./hand_mesh_particles/gris19_world.particles",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        }
+    ],
+    "groom": {
+        "1": {}
+    },
+    "optimize": {
+        "number_of_particles": "128",
+        "optimization_iterations": "2000",
+        "iterations_per_split": "3000",
+        "initial_relative_weighting": "0.2",
+        "relative_weighting": "1",
+        "starting_regularization": "1000",
+        "ending_regularization": "10",
+        "use_geodesic_distance": "0",
+        "geodesic_remesh_percent": "100",
+        "use_normals": "0",
+        "normals_strength": "10",
+        "procrustes": "0",
+        "procrustes_scaling": "0",
+        "procrustes_rotation_translation": "0",
+        "procrustes_interval": "10"
+    },
+    "studio": {},
+    "project": {
+        "version": "2"
+    },
+    "analysis": {},
+    "deepssm": {},
+    "landmarks": []
+}

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/ShapeWorksStudio.icns</key>
+		<data>
+		gVpkTMq7wT9dWQcxNVM2FoZnN30=
+		</data>
+		<key>Resources/qt.conf</key>
+		<data>
+		u1InvBL0gidAkO1kS8ZQpocORVU=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Frameworks/libJKQTCommonSharedLib_Release.2022.10.12.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Zmk9g3SJ/VxnolXyjThs4AngBzA=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTCommonSharedLib_Release.2022" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTCommonSharedLib_Release.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PBn7CoJV89F0T0x+nZYt01OWn6g=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTCommonSharedLib_Release" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTFastPlotterSharedLib_Release.2022.10.12.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BkcWlU2+sni/qB+T32lAyxXBbYY=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTFastPlotterSharedLib_Release.2022" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTFastPlotterSharedLib_Release.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KosmdJw2pk1qmS1V5GE5uTH1Gag=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTFastPlotterSharedLib_Release" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTMathTextSharedLib_Release.2022.10.12.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Qrw4ge1KpnTVUpz4ldDCBLe3HoI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTMathTextSharedLib_Release.2022" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTMathTextSharedLib_Release.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ajuzHv4LbJlPRtH2/MEEpgdEf7Q=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTMathTextSharedLib_Release" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTPlotterSharedLib_Release.2022.10.12.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7MteyzcZ8C7i956ZDOuYJrtMUOk=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTPlotterSharedLib_Release.2022" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libJKQTPlotterSharedLib_Release.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YUEIf81mDKzt1Ryz3k7AFbHS2oI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libJKQTPlotterSharedLib_Release" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Core.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oa2+5MtFAl1/jqIMJ73UYgJh9r8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Core.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5DBus.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			rncwALZDEXCOJkqOw4uQGr3N/mQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5DBus.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Gui.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Qigy3Y5XgrK8MHgyMb4dbZIQe4A=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Gui.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Network.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9PgVS2sA5Uo1b0w+fjiRiRMJW4w=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Network.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5OpenGL.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			p3pnIOLwGAXdun9kfE4t6qi1SpI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5OpenGL.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5PrintSupport.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tmjTLlqSmSy1Len58uoOboSsTHM=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5PrintSupport.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Qml.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fw0/jtGwyfAUegC+51HBUvVpm5I=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Qml.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5QmlModels.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ia5rKjtEl7pUJToa982Xpc91eFg=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5QmlModels.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Quick.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ODkHU5LU+e2ShmxinWDdMlk34JI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Quick.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Sql.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yO33WTlicTbYps2KzrrAHZX8bV0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Sql.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Svg.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kX6XU9VVoqnfLeA7XlmlFJSbFe8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Svg.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5VirtualKeyboard.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cEJ1Dts9AYFf/pxcr9Mfaoty8v0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5VirtualKeyboard.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Widgets.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			aRdr67fmX6CApe6Sc3RwVnlSPUw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Widgets.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libQt5Xml.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			y7sBuutvw6NXgNr2K0DO/SfN9DE=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libQt5Xml.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libboost_filesystem.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JtOhQ3PYAYoNZJKkJCEQ5H/qLZ8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libboost_filesystem" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libboost_iostreams.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0DGLo9cqzhXms6i0CgLndBYe3ew=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libboost_iostreams" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libbz2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			I8XkzHAo9xPhYFux2x+hEzSnweA=
+			</data>
+			<key>requirement</key>
+			<string>identifier libbz2 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libc++.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			WvUIDrYQ05dwjNvOxFvLHC7g2Pc=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libc++.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libcom_err.3.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			iOA/3/+WmtL51N5Ae6T1+fQz1Io=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libcom_err.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libcrypto.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jrHKNGk4VjQq0CYOKTrCMqTwKMM=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libcrypto.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libgssapi_krb5.2.2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jmh1cWOkflW+YfegmISyA7ZoAPw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libgssapi_krb5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libicudata.70.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7mYWNeTI+27I4b/o87qxhLG3Wug=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libicudata.70" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libicui18n.70.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			v10dFJiq1fEkBgWCEPhHXqxgXgI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libicui18n.70" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libicuuc.70.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			T5auObOoDSX6VO4MXd40amLeqNI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libicuuc.70" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libjpeg.9.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LIKePwLjych/yn3P6gaG0hIALIM=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libjpeg.9" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libk5crypto.3.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			HLbSCgENT0lVunmoAgReSKSXF4k=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libk5crypto.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libkrb5.3.3.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yw8m3iNw3AmwbD1Y1Mcrk1MFYUA=
+			</data>
+			<key>requirement</key>
+			<string>identifier libkrb5 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libkrb5support.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			sGJlwsIDFQ6vTwV3RdnpuoxEy8Q=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libkrb5support.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/liblzma.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Y7vULOdao0n4mS5hT86PsfrCAwc=
+			</data>
+			<key>requirement</key>
+			<string>identifier "liblzma.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libmysqlclient.21.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+E9QGqn/6M7UcoxkLNFpFW+dRnY=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libmysqlclient.21" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libopenvdb.9.1.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zgr5atDEgyshhjQC6FMjnSoF3fY=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libopenvdb.9" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libopenvdb.9.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zgr5atDEgyshhjQC6FMjnSoF3fY=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libopenvdb.9" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libopenvdb.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			IP1fNiq419CeGq1bCFz/+kz9rW4=
+			</data>
+			<key>requirement</key>
+			<string>identifier libopenvdb and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libpng16.16.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KNdP0vVxqIeotDbtRhNgufgatE8=
+			</data>
+			<key>requirement</key>
+			<string>identifier libpng16 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libpq.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dBVAvKkFCMF/ZWUWvmxrXvaBWDk=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libpq.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libpython3.9.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			r7SN3baaUncE5peI/ZXEUHy7PtQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier libpython3 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libspdlog.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cV+ZNIKrRl0l9BnDpys90WrdEC4=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libspdlog.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libsqlite3.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qbacJeFYI/Gc1do0udH0XOi7nTo=
+			</data>
+			<key>requirement</key>
+			<string>identifier libsqlite3 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libssl.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/OzYs+1cNWWFEruXLu8EXmx+Znw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libssl.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libtbb.12.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			R6c9gC8b2iFpofXITNLPj3JFetU=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libtbb.12" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libxlnt.1.5.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			GcY24wzkL5CNvkjEiKAjUt9YBV0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libxlnt.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libxlnt.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2lOHewfk8VijYwKXmo3Y9N1uE/0=
+			</data>
+			<key>requirement</key>
+			<string>identifier libxlnt and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libz.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			QzX9d+eJz2k2Hnw1patULcZDfZg=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libz.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Frameworks/libzstd.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YCyl+lDpXAEULRW4uNfThFPZteY=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libzstd.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/bearer/libqgenericbearer.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CIBNGQ2R6eNkPuhcg5u7rMciIGo=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqgenericbearer and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/iconengines/libqsvgicon.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LfqU1rjA5klia/fGo+YppO27enY=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqsvgicon and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqgif.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/3f16iaictclehi1uu5TmdWfZv8=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqgif and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqicns.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			R/ulv8djx9MqYXIZZg3if4kCLqk=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqicns and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqico.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			M9/Gxxncvmd3Qz+1jZpXmxMwMTM=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqico and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqjpeg.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+ILEckwpgUWzQsuFmR6RLHPqb7I=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqjpeg and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqmacheif.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			IiLjz8JS/U7/+cXgks++/7VdKrc=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqmacheif and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqmacjp2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+bkQ/ByuZCllc3GfHXbUTxLq9M8=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqmacjp2 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqsvg.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Ed4xYF6cpaYfFObHV0JWo5ZcBCs=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqsvg and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqtga.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4qtT9k6uYAdQQ5A86nL8OSzoolE=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqtga and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqtiff.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5KN5iqqpMWI/th5yC/D91lVHSCI=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqtiff and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqwbmp.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4l2u+m6SWgaH2L7tBJIZG1aDmBo=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqwbmp and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/imageformats/libqwebp.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wvLrUnOBgVhtg+Uc/yby45MDkak=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqwebp and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/platforminputcontexts/libqtvirtualkeyboardplugin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tMUMaUpqnhQvl1hZ/MgOG8hV+FE=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqtvirtualkeyboardplugin and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/platforms/libqcocoa.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			enNCjGgWK4Dp1KqsWHNQBUDtgEs=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqcocoa and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/printsupport/libcocoaprintersupport.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qCyHnSarTsG2MClOEYo0bOBZnoE=
+			</data>
+			<key>requirement</key>
+			<string>identifier libcocoaprintersupport and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/sqldrivers/libqsqlite.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			T2Y569wvcqrKUFxoYRRj3cgq3KY=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqsqlite and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/sqldrivers/libqsqlmysql.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			AapBvY71oqFCfOzutAYqB5ObEGg=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqsqlmysql and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/sqldrivers/libqsqlpsql.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/hCVRkqY3hCPg6dLKlVcvvP557Q=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqsqlpsql and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/styles/libqmacstyle.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1PXLtpHW4B4pYS3NtCmNiX5Zr5k=
+			</data>
+			<key>requirement</key>
+			<string>identifier libqmacstyle and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/virtualkeyboard/libqtvirtualkeyboard_hangul.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fpxjWWgNBjqSPfZSs9UlYFZhrkE=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libqtvirtualkeyboard_hangul" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/virtualkeyboard/libqtvirtualkeyboard_openwnn.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			lKR2o0fH3gyc6+6+zNrBeZRaBl8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libqtvirtualkeyboard_openwnn" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/virtualkeyboard/libqtvirtualkeyboard_pinyin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/n+MOK5MJMTO/alerDSdfOliMCA=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libqtvirtualkeyboard_pinyin" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/virtualkeyboard/libqtvirtualkeyboard_tcime.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cQ1LtHRIQhDX1XjNYkTYgZPTwek=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libqtvirtualkeyboard_tcime" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>PlugIns/virtualkeyboard/libqtvirtualkeyboard_thai.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			h/t3qsyIr6wmCO4umq4dSDOgCUQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libqtvirtualkeyboard_thai" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = WG354P62PL</string>
+		</dict>
+		<key>Resources/ShapeWorksStudio.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MJweDjw3G+Uyr/7K63v83hXax6jdmQSuEZfS9DAuWF8=
+			</data>
+		</dict>
+		<key>Resources/qt.conf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qpc3X3VoXSaLHbBg8mvJVZMcFogxIwC2HZmBFfgAH7A=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

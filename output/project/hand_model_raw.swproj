@@ -1,0 +1,694 @@
+{
+    "data": [
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris14.obj",
+            "groomed_1": "../groomed/gris14.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris28.obj",
+            "groomed_1": "../groomed/gris28.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris4.obj",
+            "groomed_1": "../groomed/gris4.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado10.obj",
+            "groomed_1": "../groomed/rosado10.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris29.obj",
+            "groomed_1": "../groomed/gris29.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris15.obj",
+            "groomed_1": "../groomed/gris15.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris17.obj",
+            "groomed_1": "../groomed/gris17.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris7.obj",
+            "groomed_1": "../groomed/gris7.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris6.obj",
+            "groomed_1": "../groomed/gris6.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris16.obj",
+            "groomed_1": "../groomed/gris16.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris12.obj",
+            "groomed_1": "../groomed/gris12.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris2.obj",
+            "groomed_1": "../groomed/gris2.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado16.obj",
+            "groomed_1": "../groomed/rosado16.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado17.obj",
+            "groomed_1": "../groomed/rosado17.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris13.obj",
+            "groomed_1": "../groomed/gris13.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris11.obj",
+            "groomed_1": "../groomed/gris11.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris1.obj",
+            "groomed_1": "../groomed/gris1.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado29.obj",
+            "groomed_1": "../groomed/rosado29.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado28.obj",
+            "groomed_1": "../groomed/rosado28.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris10.obj",
+            "groomed_1": "../groomed/gris10.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris77.obj",
+            "groomed_1": "../groomed/gris77.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris63.obj",
+            "groomed_1": "../groomed/gris63.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris62.obj",
+            "groomed_1": "../groomed/gris62.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris74.obj",
+            "groomed_1": "../groomed/gris74.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris48.obj",
+            "groomed_1": "../groomed/gris48.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado58.obj",
+            "groomed_1": "../groomed/rosado58.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado70.obj",
+            "groomed_1": "../groomed/rosado70.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado59.obj",
+            "groomed_1": "../groomed/rosado59.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris49.obj",
+            "groomed_1": "../groomed/gris49.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris75.obj",
+            "groomed_1": "../groomed/gris75.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris61.obj",
+            "groomed_1": "../groomed/gris61.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris59.obj",
+            "groomed_1": "../groomed/gris59.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris71.obj",
+            "groomed_1": "../groomed/gris71.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado61.obj",
+            "groomed_1": "../groomed/rosado61.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado6.obj",
+            "groomed_1": "../groomed/rosado6.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado49.obj",
+            "groomed_1": "../groomed/rosado49.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado48.obj",
+            "groomed_1": "../groomed/rosado48.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado7.obj",
+            "groomed_1": "../groomed/rosado7.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris70.obj",
+            "groomed_1": "../groomed/gris70.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris58.obj",
+            "groomed_1": "../groomed/gris58.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris72.obj",
+            "groomed_1": "../groomed/gris72.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado62.obj",
+            "groomed_1": "../groomed/rosado62.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado63.obj",
+            "groomed_1": "../groomed/rosado63.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris73.obj",
+            "groomed_1": "../groomed/gris73.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris56.obj",
+            "groomed_1": "../groomed/gris56.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris42.obj",
+            "groomed_1": "../groomed/gris42.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado46.obj",
+            "groomed_1": "../groomed/rosado46.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris57.obj",
+            "groomed_1": "../groomed/gris57.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris80.obj",
+            "groomed_1": "../groomed/gris80.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris55.obj",
+            "groomed_1": "../groomed/gris55.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris69.obj",
+            "groomed_1": "../groomed/gris69.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado45.obj",
+            "groomed_1": "../groomed/rosado45.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado51.obj",
+            "groomed_1": "../groomed/rosado51.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado44.obj",
+            "groomed_1": "../groomed/rosado44.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris68.obj",
+            "groomed_1": "../groomed/gris68.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris54.obj",
+            "groomed_1": "../groomed/gris54.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris40.obj",
+            "groomed_1": "../groomed/gris40.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris78.obj",
+            "groomed_1": "../groomed/gris78.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris44.obj",
+            "groomed_1": "../groomed/gris44.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado40.obj",
+            "groomed_1": "../groomed/rosado40.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado54.obj",
+            "groomed_1": "../groomed/rosado54.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado68.obj",
+            "groomed_1": "../groomed/rosado68.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado69.obj",
+            "groomed_1": "../groomed/rosado69.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado55.obj",
+            "groomed_1": "../groomed/rosado55.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris51.obj",
+            "groomed_1": "../groomed/gris51.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris45.obj",
+            "groomed_1": "../groomed/gris45.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris79.obj",
+            "groomed_1": "../groomed/gris79.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado57.obj",
+            "groomed_1": "../groomed/rosado57.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado42.obj",
+            "groomed_1": "../groomed/rosado42.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado56.obj",
+            "groomed_1": "../groomed/rosado56.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris46.obj",
+            "groomed_1": "../groomed/gris46.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris21.obj",
+            "groomed_1": "../groomed/gris21.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado31.obj",
+            "groomed_1": "../groomed/rosado31.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado25.obj",
+            "groomed_1": "../groomed/rosado25.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado24.obj",
+            "groomed_1": "../groomed/rosado24.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado30.obj",
+            "groomed_1": "../groomed/rosado30.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris20.obj",
+            "groomed_1": "../groomed/gris20.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris22.obj",
+            "groomed_1": "../groomed/gris22.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado26.obj",
+            "groomed_1": "../groomed/rosado26.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado32.obj",
+            "groomed_1": "../groomed/rosado32.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado27.obj",
+            "groomed_1": "../groomed/rosado27.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris23.obj",
+            "groomed_1": "../groomed/gris23.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris27.obj",
+            "groomed_1": "../groomed/gris27.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado23.obj",
+            "groomed_1": "../groomed/rosado23.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado22.obj",
+            "groomed_1": "../groomed/rosado22.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris32.obj",
+            "groomed_1": "../groomed/gris32.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris26.obj",
+            "groomed_1": "../groomed/gris26.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris18.obj",
+            "groomed_1": "../groomed/gris18.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris30.obj",
+            "groomed_1": "../groomed/gris30.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris24.obj",
+            "groomed_1": "../groomed/gris24.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris8.obj",
+            "groomed_1": "../groomed/gris8.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado20.obj",
+            "groomed_1": "../groomed/rosado20.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/rosado21.obj",
+            "groomed_1": "../groomed/rosado21.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris9.obj",
+            "groomed_1": "../groomed/gris9.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris25.obj",
+            "groomed_1": "../groomed/gris25.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris31.obj",
+            "groomed_1": "../groomed/gris31.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "",
+            "notes": "",
+            "shape_1": "../../../../Users/guzmantangari/Downloads/huesos_apartados/gris19.obj",
+            "groomed_1": "../groomed/gris19.vtp",
+            "alignment_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        }
+    ],
+    "groom": {
+        "1": {}
+    },
+    "optimize": {},
+    "studio": {},
+    "project": {
+        "version": "2"
+    },
+    "analysis": {},
+    "deepssm": {},
+    "landmarks": []
+}
