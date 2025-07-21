@@ -4,20 +4,9 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PATH="/app/.venv/bin:$PATH"
 
-COPY ShapeWorks-v6.6.1-linux.tar.gz /tmp/sw.tgz
-
-RUN set -eux; \
-    mkdir -p /opt/shapeworks && \
-    tar -xzf /tmp/sw.tgz --strip-components=1 -C /opt/shapeworks && \
-    rm /tmp/sw.tgz
-
-ENV PATH="/opt/shapeworks/bin:${PATH}" \
-    PYTHONPATH="/opt/shapeworks/bin:${PYTHONPATH:-}"
-
-WORKDIR /app
-
 RUN apt-get update && \
     DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        curl \
         cmake \
         doxygen \
         graphviz \
@@ -40,6 +29,20 @@ RUN apt-get update && \
         git && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
+
+RUN set -eux; \
+    curl -L -o /tmp/sw.tgz https://github.com/SCIInstitute/ShapeWorks/releases/download/v6.6.1/ShapeWorks-v6.6.1-linux.tar.gz && \
+    mkdir -p /opt/shapeworks && \
+    tar -xzf /tmp/sw.tgz --strip-components=1 -C /opt/shapeworks && \
+    rm /tmp/sw.tgz
+
+
+ENV PATH="/opt/shapeworks/bin:${PATH}" \
+    PYTHONPATH="/opt/shapeworks/bin:${PYTHONPATH:-}"
+
+WORKDIR /app
+
+
 
 
 
